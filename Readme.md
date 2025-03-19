@@ -18,7 +18,7 @@ Lesions Using Deep Learning**
 
 - 📫 How to reach me **nsagar1_be22@thapar.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/1aLrHdbflHAO4hUtKjW-usHltjnw79TW6/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/1aLrHdbflHAO4hUtKjW-usHltjnw79TW6/view?usp=sharing)](https://drive.google.com/file/d/1aLrHdbflHAO4hUtKjW-usHltjnw79TW6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
