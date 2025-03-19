@@ -1,5 +1,5 @@
 <h1 align=“left”>Hi 👋, I'm Navneet Sagar</h1>
-<h3 align=“left”>A passionate frontend developer ,exploring AI/ML and code enthusiast from India</h3>
+<h3 align=“left”>A passionate Software developer ,exploring AI/ML,Data Science(Minor Subject) and code enthusiast from India</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -7,17 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sign Language Recognition Using Transformers**
+- 🔭 I’m currently working on **Automated Segmentation of Focal Cortical Dysplasia
+Lesions Using Deep Learning**
 
-- 🌱 I’m currently learning **React js ,Python and Machine Learning**
+- 🌱 I’m currently learning **Deep Learning,Transformer,Django,NLP,Predictive Data Analysis**
 
 - 👯 I’m open to collaborate on **any full stack project**
 
-- 💬 Ask me about **Javascript,Django,HTML/CSS,Python,C,C++**
+- 💬 Ask me about **Javascript,Django,HTML/CSS,Python,C,C++,Data Science**
 
 - 📫 How to reach me **nsagar1_be22@thapar.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/14uoTGkOqRu-cZVAKTPBcdL_w_MK841QD/view?usp=sharing](https://drive.google.com/file/d/1aLrHdbflHAO4hUtKjW-usHltjnw79TW6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
